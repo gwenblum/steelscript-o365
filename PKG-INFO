@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: steelscript.o365
+Version: 1.0.0
+Summary: Office 365 Usage App Framework Plugin
+Home-page: UNKNOWN
+Author: Gwen Blum
+Author-email: gwen.blum@gmail.com
+License: MIT
+Description: 
+        steelscript.o365
+        ====================
+        Office 365 Usage App Framework Plugin
+        
+        
+Platform: UNKNOWN
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development
