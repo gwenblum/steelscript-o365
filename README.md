@@ -14,8 +14,9 @@ Next versions would focus on functionnal extension to get others Office 365 usag
 - Creating new datasources inside steelscript-o365 / steelscript / o365 / appfwk / datasources / o365_source.py 
 - Creating new reports scripts in the folder steelscript-o365 / steelscript / o365 / appfwk / reports / 
 
-### How to use it?
+### How to use the plugin?
 
+SteelScript App Framework and O365 plugin can be integrated in SteelCentral Portal dashboards (Riverbed).
 - See more at: https://splash.riverbed.com/docs/DOC-5608#sthash.AsyHMXXQ.dpuf
 
 ### Steelscript App Framework (Riverbed)?
